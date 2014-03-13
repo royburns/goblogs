@@ -1,4 +1,4 @@
 goblogs
 =======
 
-A personal blog, power by Go and beego!
+A personal blog. Powered by Go and beego!
